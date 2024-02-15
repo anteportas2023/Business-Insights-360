@@ -104,7 +104,11 @@ Transformed raw data from MySQL database and Excel/CSV files into Power BI, inte
 
 ### Executive Preview
 
-![Executive Preview]
+![Executive Preview](https://github.com/anteportas2023/Business-Insights-360/blob/main/Resources/PBIDesktop_XnuvJUNuDn-ezgif.com-video-to-gif-converter.gif)
+
+### Project Outcome
+
+Utilizing this report enables data-driven decision-making and facilitates addressing numerous inquiries regarding the underlying circumstances.
 
 
 
