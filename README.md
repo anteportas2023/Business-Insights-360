@@ -70,6 +70,21 @@ Transformed raw data from MySQL database and Excel/CSV files into Power BI, inte
 - Poor data modeling affects the over all performance of the report.
 - In this project, we have followed Snowfall data modeling method.
 
+![Data Model](https://github.com/anteportas2023/Business-Insights-360/blob/main/Resources/Data_Model.png)
+
+### Home Preview
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Support
+
+### Overall Preview
+
+
 
 
 
