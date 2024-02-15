@@ -84,7 +84,11 @@ Transformed raw data from MySQL database and Excel/CSV files into Power BI, inte
 
 ### Overall Preview
 
+![Overall Preview](https://github.com/anteportas2023/Business-Insights-360/blob/main/Resources/PBIDesktop_8SvBD4ZuYJ-ezgif.com-video-to-gif-converter.gif)
 
+### Finace Preview
+
+![Finance Preview]
 
 
 
