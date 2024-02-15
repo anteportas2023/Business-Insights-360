@@ -4,7 +4,7 @@
 
 AtliQ Hardware, a growing electronics company, faced data analysis limitations in Excel, leading to substantial losses in the Latin American market, prompting the company to adopt PowerBi for the first time to leverage data analytics and surpass their competitors in the market to make data driven decisions.The project's objective is to provide stakeholders with comprehensive insights across various aspects, including finance, sales, marketing, and supply chain, addressing their key questions.
 
-![Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNGU5MDM0ZWItMDZmYy00ZmU0LWI5NDktODkxMGI5MmMyODE3IiwidCI6Ijk1YmNkYTdkLTgzZjItNDk0MS05ZTY3LTMwYmIxYzI5N2ExZCIsImMiOjl9)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNGU5MDM0ZWItMDZmYy00ZmU0LWI5NDktODkxMGI5MmMyODE3IiwidCI6Ijk1YmNkYTdkLTgzZjItNDk0MS05ZTY3LTMwYmIxYzI5N2ExZCIsImMiOjl9)
 
 ### Tools Utilized
 - MySQL
@@ -69,6 +69,8 @@ Transformed raw data from MySQL database and Excel/CSV files into Power BI, inte
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
 - In this project, we have followed Snowfall data modeling method.
+
+
 
 
 
