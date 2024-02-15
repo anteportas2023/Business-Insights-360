@@ -100,7 +100,11 @@ Transformed raw data from MySQL database and Excel/CSV files into Power BI, inte
 
 ### Supply Chain Preview
 
-![Supply Chain Preview]
+![Supply Chain Preview](https://github.com/anteportas2023/Business-Insights-360/blob/main/Resources/PBIDesktop_84gH7iM2jP-ezgif.com-video-to-gif-converter.gif)
+
+### Executive Preview
+
+![Executive Preview]
 
 
 
